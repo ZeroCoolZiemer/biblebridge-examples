@@ -16,6 +16,12 @@ Genesis 1:1 is `1`. Revelation 22:21 is `31,102`.
 
 This turns Scripture into a continuous coordinate space where navigation becomes simple integer math.
 
+```
+distance(John 3:16, Romans 8:1) → 1981 verses apart
+midpoint(Genesis 1:1, Revelation 22:21) → Psalm 103:1
+next(Malachi 4:6) → Matthew 1:1
+```
+
 ---
 
 ## Examples
